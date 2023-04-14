@@ -1,0 +1,43 @@
+DAT,Treatment ,Variety,Plants Flowering,Not flowering
+59,Control,Berry Blossom,6,2
+59,Control,Red Bordeaux,4,4
+59,Control,Tahoe,5,3
+59,N+,Berry Blossom,4,4
+59,N+,Red Bordeaux,5,3
+59,N+,Tahoe,7,1
+64,Control,Berry Blossom,6,2
+64,Control,Tahoe,7,1
+64,Control,Red Bordeaux,4,4
+64,N+,Berry Blossom,5,3
+64,N+,Red Bordeaux,7,1
+64,N+,Tahoe,8,0
+69,Control,Berry Blossom,6,2
+69,Control,Tahoe,7,1
+69,Control,Red Bordeaux,4,4
+69,N+,Berry Blossom,6,2
+69,N+,Red Bordeaux,7,1
+69,N+,Tahoe,8,0
+72,Control,Berry Blossom,6,2
+72,Control,Tahoe,7,1
+72,Control,Red Bordeaux,4,4
+72,N+,Berry Blossom,6,2
+72,N+,Red Bordeaux,8,0
+72,N+,Tahoe,8,0
+77,Control,Berry Blossom,6,2
+77,Control,Red Bordeaux,5,3
+77,Control,Tahoe,7,1
+77,N+,Berry Blossom,7,1
+77,N+,Red Bordeaux,8,0
+77,N+,Tahoe,8,0
+79,Control,Berry Blossom,7,1
+79,Control,Red Bordeaux,5,3
+79,Control,Tahoe,7,1
+79,N+,Berry Blossom,8,0
+79,N+,Red Bordeaux,8,0
+79,N+,Tahoe,8,0
+85,Control,Berry Blossom,8,0
+85,Control,Red Bordeaux,8,0
+85,Control,Tahoe,8,0
+85,N+,Berry Blossom,8,0
+85,N+,Red Bordeaux,8,0
+85,N+,Tahoe,8,0
